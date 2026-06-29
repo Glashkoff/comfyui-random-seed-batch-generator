@@ -1,8 +1,8 @@
 # pyproject.toml
 [project]
-name = "comfyui-random-seed-batch-generator"
+name = "random-seed-batch-generator"
 description = "Generate multiple groups of seeds for batch image processing in ComfyUI."
-version = "1.0.0"
+version = "1.0.1"
 license = { file = "LICENSE.txt" }
 dependencies = []
 
