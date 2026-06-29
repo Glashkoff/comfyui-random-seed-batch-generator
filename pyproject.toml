@@ -1,0 +1,15 @@
+# pyproject.toml
+[project]
+name = "comfyui-random-seed-batch-generator"
+description = "Generate multiple groups of seeds for batch image processing in ComfyUI."
+version = "1.0.0"
+license = { file = "LICENSE.txt" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Glashkoff/comfyui-random-seed-batch-generator"
+
+[tool.comfy]
+PublisherId = "glashkoff"
+DisplayName = "Random Seed Batch Generator"
+Icon = ""
