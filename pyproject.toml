@@ -2,7 +2,7 @@
 [project]
 name = "random-seed-batch-generator"
 description = "Generate multiple groups of seeds for batch image processing in ComfyUI."
-version = "1.0.1"
+version = "1.0.2"
 license = { file = "LICENSE.txt" }
 dependencies = []
 
@@ -12,4 +12,4 @@ Repository = "https://github.com/Glashkoff/comfyui-random-seed-batch-generator"
 [tool.comfy]
 PublisherId = "glashkoff"
 DisplayName = "Random Seed Batch Generator"
-Icon = ""
+requires-comfyui = ">=0.25.0"
